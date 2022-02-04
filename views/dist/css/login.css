@@ -1,0 +1,9 @@
+.fon{
+    background: url("http://192.168.100.108/escuela_2.0/r2-c2-front/views/dist/img2/nuevos.jpeg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: show;
+    opacity: 0.7;
+}

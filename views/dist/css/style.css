@@ -1,0 +1,42 @@
+.card .img-logo{
+    /* border: 1px solid red; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #07204c;
+    height: 180px;
+}
+
+.card div img{
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+
+/* colores de botones de login */
+.c-f{
+    border: none;
+    background-color: #3b5998 !important;
+}
+
+.c-t{
+    border: none;
+    background-color: #1da1f2 !important;
+}
+
+.colorApp{
+    border: none;
+    background-color: #07204c !important;
+}
+
+.btn-purple{
+    background-color: #605ca8;
+    color: #fff;
+    border-color: #605ca8;
+}
+
+.alto-table-roles{
+    height: 293px;
+    overflow: auto;
+}
